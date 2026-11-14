@@ -18,7 +18,7 @@ tagline: "On a mission to create exceptional humans."
 # Primary links
 links:
   - link:
-      icon: "fa-brands fa-substack"
+      icon: "fa-solid fa-newspaper"
       text: "Human Formation Newsletter"
       url: "https://humanformation.substack.com/"
       alt: "Read the Human Formation Newsletter"
@@ -26,7 +26,7 @@ links:
       target: "_blank"
 
   - link:
-      icon: "fa-brands fa-substack"
+      icon: "fa-solid fa-newspaper"
       text: "Personal Newsletter"
       url: "https://aunnaemeka.substack.com/"
       alt: "Read Nnaemeka's personal newsletter"
@@ -44,7 +44,7 @@ links:
 # Social links
 socials:
   - social:
-      icon: "fa-brands fa-substack"
+      icon: "fa-solid fa-newspaper"
       url: "https://substack.com/@aunnaemeka"
       title: "Substack"
       alt: "Nnaemeka on Substack"
