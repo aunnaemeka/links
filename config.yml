@@ -35,10 +35,10 @@ links:
 
   - link:
       icon: "fa-solid fa-calendar-check"
-      text: "Get a Ghostwriter"
+      text: "Book a Branding & Marketing Call"
       url: "https://calendly.com/aunnaemeka"
-      alt: "Book a meeting about ghostwriting services"
-      title: "Book a Ghostwriting Meeting"
+      alt: "Book a meeting about a branding or marketing project"
+      title: "Book a Branding & Marketing Call"
       target: "_blank"
 
 # Social links
@@ -87,7 +87,7 @@ socials:
 
   - social:
       icon: "fa-brands fa-tiktok"
-      url: "https://www.tiktok.com/@nnaemekaaja"
+      url: "https://www.tiktok.com/@aunnaemeka"
       title: "TikTok"
       alt: "Nnaemeka on TikTok"
       target: "_blank"
